@@ -249,7 +249,116 @@ Sería una IA que tendría **conciencia propia y entendimiento de sí misma**.
 La Inteligencia Artificial actual está principalmente basada en **IA débil y sistemas de memoria limitada**. Sin embargo, la investigación continúa avanzando hacia modelos más complejos que podrían acercarse a la **IA general** en el futuro.
 
 
+# Librerías de Python: Pandas, NumPy y Matplotlib
 
+En Python existen **librerías** que agregan funciones ya programadas para facilitar el trabajo del desarrollador.  
+En ciencia de datos y análisis, tres de las más usadas son **NumPy, Pandas y Matplotlib**.
+
+---
+
+# NumPy
+
+**NumPy (Numerical Python)** es una librería utilizada para trabajar con **cálculos numéricos y arreglos multidimensionales**.
+
+## Para qué sirve
+- Trabajar con **vectores y matrices**
+- Realizar **operaciones matemáticas rápidas**
+- Manejar **grandes cantidades de datos numéricos**
+- Base para otras librerías de ciencia de datos
+
+## Ejemplo
+```python
+import numpy as np
+
+array = np.array([1, 2, 3, 4])
+print(array * 2)
+
+Resultado
+
+[2 4 6 8]
+Pandas
+
+Pandas es una librería utilizada para análisis y manipulación de datos.
+
+Trabaja principalmente con estructuras llamadas:
+
+Series → listas de datos
+
+DataFrame → tablas de datos (similar a Excel)
+
+Para qué sirve
+
+Leer archivos CSV, Excel o JSON
+
+Analizar datos
+
+Limpiar datos
+
+Filtrar información
+
+Agrupar datos
+
+Ejemplo
+import pandas as pd
+
+data = {
+    "Nombre": ["Ana", "Luis", "Carlos"],
+    "Edad": [23, 30, 19]
+}
+
+df = pd.DataFrame(data)
+print(df)
+
+Resultado
+
+Nombre   Edad
+Ana      23
+Luis     30
+Carlos   19
+Matplotlib
+
+Matplotlib es una librería usada para crear gráficos y visualizaciones de datos.
+
+Para qué sirve
+
+Crear gráficos de líneas
+
+Crear gráficos de barras
+
+Crear histogramas
+
+Visualizar datos de manera clara
+
+Ejemplo
+import matplotlib.pyplot as plt
+
+x = [1,2,3,4]
+y = [10,20,25,30]
+
+plt.plot(x,y)
+plt.title("Ejemplo de gráfico")
+plt.show()
+Resumen
+Librería	Para qué se usa
+NumPy	Cálculos numéricos y matrices
+Pandas	Análisis y manipulación de datos
+Matplotlib	Visualización de datos y gráficos
+Conclusión
+
+Estas tres librerías forman la base del análisis de datos y la ciencia de datos en Python.
+Frecuentemente se utilizan juntas:
+
+NumPy → cálculos matemáticos
+
+Pandas → análisis de datos
+
+Matplotlib → visualización de datos
+
+
+Si quieres, también puedo darte:
+- **las 10 librerías de Python más usadas en IA**
+- **un README completo de Python para GitHub**
+- **un ejemplo de proyecto de análisis de datos con estas 3 librerías**.
 
 
 
