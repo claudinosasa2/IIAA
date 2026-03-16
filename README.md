@@ -141,3 +141,123 @@ Ejemplo conceptual de DataFrame:
 **En resumen:**
 - **Dataset = los datos**
 - **DataFrame = la estructura para trabajar con esos datos**
+
+# Tipos de Inteligencia Artificial (IA)
+
+La **Inteligencia Artificial (IA)** se puede clasificar de varias maneras. A continuación se muestran algunos de los tipos más conocidos.
+
+---
+
+## 1. Según su capacidad
+
+### IA Débil (IA estrecha)
+Es la IA que existe actualmente. Está diseñada para realizar **tareas específicas** y no posee inteligencia general como un humano.
+
+**Ejemplos:**
+- Asistentes virtuales
+- Sistemas de recomendación
+- Traducción automática
+- Chatbots
+
+**Ventajas**
+- Muy eficiente en tareas concretas
+
+**Limitaciones**
+- No tiene conciencia
+- No puede razonar fuera de su función
+
+---
+
+### IA General (AGI)
+La **Inteligencia Artificial General** sería una IA capaz de **realizar cualquier tarea intelectual que un humano pueda hacer**.
+
+**Características:**
+- Aprendizaje en múltiples áreas
+- Razonamiento complejo
+- Adaptación a nuevos problemas
+
+⚠️ Este tipo de IA **aún no existe**.
+
+---
+
+### Superinteligencia Artificial
+Sería una IA que **superaría la inteligencia humana en todos los aspectos**.
+
+**Posibles capacidades:**
+- Resolución avanzada de problemas
+- Creatividad superior
+- Toma de decisiones complejas
+
+Actualmente es un **concepto teórico**.
+
+---
+
+## 2. Según su funcionamiento
+
+### IA Reactiva
+Este tipo de IA **solo responde a situaciones actuales** y no tiene memoria.
+
+**Características**
+- No aprende del pasado
+- Solo analiza la situación presente
+
+**Ejemplo**
+- Programas de ajedrez tradicionales.
+
+---
+
+### IA de Memoria Limitada
+Puede **utilizar información pasada durante un periodo corto** para tomar decisiones.
+
+**Ejemplos**
+- Vehículos autónomos
+- Sistemas de reconocimiento facial
+- Asistentes inteligentes
+
+---
+
+### IA con Teoría de la Mente
+Este tipo de IA sería capaz de **entender emociones, pensamientos e intenciones humanas**.
+
+Actualmente está **en desarrollo e investigación**.
+
+---
+
+### IA Autoconsciente
+Sería una IA que tendría **conciencia propia y entendimiento de sí misma**.
+
+⚠️ Este tipo de IA **no existe actualmente** y pertenece más al ámbito teórico o de ciencia ficción.
+
+---
+
+## Resumen
+
+| Tipo de IA | Existe actualmente |
+|-------------|--------------------|
+| IA Débil | Sí |
+| IA General | No |
+| Superinteligencia | No |
+| IA Reactiva | Sí |
+| Memoria Limitada | Sí |
+| Teoría de la Mente | No |
+| IA Autoconsciente | No |
+
+---
+
+## Conclusión
+
+La Inteligencia Artificial actual está principalmente basada en **IA débil y sistemas de memoria limitada**. Sin embargo, la investigación continúa avanzando hacia modelos más complejos que podrían acercarse a la **IA general** en el futuro.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
