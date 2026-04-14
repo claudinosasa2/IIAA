@@ -355,12 +355,7 @@ Pandas → análisis de datos
 Matplotlib → visualización de datos
 
 
-Si quieres, también puedo darte:
-- **las 10 librerías de Python más usadas en IA**
-- **un README completo de Python para GitHub**
-- **un ejemplo de proyecto de análisis de datos con estas 3 librerías**.
 
-#abrir el csv: mostrar las columnas gender y maxcore. mostrar el tipo de dato de la columna gender . mostrar si hay filas o columnas basias . mostrar la cantidad de filas y columnas que tienen. mostrar las ultimas cinco fias
 
 
 
