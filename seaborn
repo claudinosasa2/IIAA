@@ -1,0 +1,63 @@
+
+##  Tipos de gráficos en **Seaborn**
+
+Seaborn es una librería de visualización en Python pensada para hacer gráficos estadísticos de forma sencilla y estética. Sus gráficos se pueden agrupar según lo que querés analizar:
+
+###  1. Gráficos de relación entre variables
+
+Se usan cuando querés ver cómo se vinculan dos variables numéricas.
+
+* `scatterplot()` → muestra puntos en un plano para ver si existe relación
+* `lineplot()` → conecta los valores con una línea, útil para ver evolución o tendencias
+
+ Básicamente: te ayudan a detectar patrones o correlaciones.
+
+### 2. Gráficos de distribución
+
+Sirven para entender cómo están repartidos los datos.
+
+* `histplot()` → agrupa valores en barras (frecuencia)
+* `kdeplot()` → dibuja una curva suave que representa la densidad
+* `rugplot()` → pequeñas marcas que indican dónde hay datos
+
+ En resumen: te muestran si los datos están concentrados, dispersos o sesgados.
+
+### 3. Gráficos para variables categóricas
+
+Se usan cuando trabajás con grupos o categorías.
+
+* `barplot()` → compara promedios entre categorías
+* `countplot()` → cuenta cuántos elementos hay en cada grupo
+* `boxplot()` → resume la distribución (mediana, cuartiles, outliers)
+* `violinplot()` → combina distribución + boxplot
+* `stripplot()` → muestra cada punto individual
+* `swarmplot()` → similar al anterior pero evita que los puntos se encimen
+
+ Son ideales para comparar grupos de datos.
+
+###  4. Gráficos de regresión
+
+* `regplot()` → muestra la relación entre variables con una línea de tendencia
+
+ Útil para ver si una variable influye en otra.
+
+ 5. Gráficos de matrices
+
+* `heatmap()` → representa valores con colores (como un mapa de calor)
+
+ Perfecto para ver intensidades o correlaciones en tablas.
+ Gráficos combinados (multivariados)
+
+Sirven para analizar varias variables al mismo tiempo.
+
+* `pairplot()` → genera gráficos entre todas las variables numéricas
+* `jointplot()` → combina un gráfico principal con distribuciones en los bordes
+
+ Muy útiles para exploración de datos (EDA).
+
+Idea general
+
+* Seaborn está pensado para **análisis rápido y visual**
+* Reduce mucho el código necesario
+* Se integra con **pandas**, lo que facilita trabajar con datos reales
+
