@@ -1,0 +1,63 @@
+
+##  Tipos de gráficos en **Matplotlib**
+
+Matplotlib es una de las librerías más usadas en Python para crear visualizaciones. Permite hacer gráficos simples o complejos, ya sean estáticos, animados o incluso interactivos.
+
+Para entenderla mejor, se pueden agrupar sus gráficos según el tipo de información que muestran:
+
+###  1. Gráficos básicos
+
+Son los más comunes y se usan para representar datos de forma simple.
+
+* `plot()` → dibuja líneas para mostrar cambios o tendencias
+* `bar()` → barras verticales para comparar categorías
+* `barh()` → igual que el anterior, pero horizontal
+* `scatter()` → puntos individuales para ver relaciones
+* `fill_between()` → rellena áreas entre curvas
+* `pie()` → gráfico circular para proporciones
+
+ Son los más usados para empezar y visualizar datos rápidamente.
+
+
+###  2. Gráficos estadísticos
+
+Ayudan a entender la distribución y variabilidad de los datos.
+
+* `hist()` → agrupa datos en intervalos (histograma)
+* `boxplot()` → muestra mediana, cuartiles y valores extremos
+* `violinplot()` → combina distribución con densidad
+* `stem()` → líneas verticales finas para cada valor
+* `errorbar()` → añade márgenes de error a los datos
+
+ Sirven para analizar cómo se comportan los datos.
+
+
+###  3. Gráficos 2D o espaciales
+
+Representan datos en dos dimensiones o matrices.
+
+* `contour()` / `contourf()` → curvas de nivel (como mapas topográficos)
+* `imshow()` → muestra datos como imagen (mapa de calor)
+* `quiver()` → vectores con dirección y magnitud (flechas)
+* `streamplot()` → líneas de flujo continuo
+
+ Muy usados en ciencia, física o ingeniería.
+
+###  4. Gráficos especiales
+
+Se utilizan en casos más específicos.
+
+* `polar()` → gráficos en coordenadas circulares
+* `step()` → líneas en forma de escalones
+* `specgram()` → análisis de frecuencias (audio/señales)
+* `pie()` con configuración → gráfico tipo dona (con hueco)
+
+ Son útiles para situaciones más técnicas o particulares.
+
+
+## 🧠 Resumen rápido
+
+* Matplotlib es **muy flexible** y potente
+* Permite crear casi cualquier tipo de gráfico
+* Requiere más configuración que otras librerías como Seaborn
+
